@@ -1,0 +1,37 @@
+
+
+W/4Lu72T
+
+upwork credentials
+ 
+ayyappav@nextplatform.co
+Success@143
+
+Kishore 
+ 
+
+
+ 
+Hello Elias,
+
+As per the job what you have listed, you need a DevOps Architect, with CI/CD process experience, I have hands on experience working with Jenkins, building Docker (images/containers) by using CI/CD process in Jenkins.
+Automated server deployments via Ansible playbooks/roles.
+Also have the hands on experience in AWS (VPC, EC2, ELB, S3, RDS, EBS, Route53, IAM, Auto Scaling, CloudWatch, SNS, Cloud Front, SNS).I can start immediately on your requirements, and if needed I can do a pilot job for you for demo of my domain knowledge.
+
+Looking forward to hear from you, 
+ 
+
+
+
+
+
+
+
+
+https://jackiechen.org/2016/11/24/aws-security-group-limits-qa/
+
+https://jackiechen.org/2017/01/16/fault-tolerant-vpn-solution-on-aws/
+
+https://www.cloudberrylab.com/resources/blog/amazon-s3-vs-ebs-vs-efs/
+
+http://jayendrapatil.com/category/aws/vpc/nacl/
